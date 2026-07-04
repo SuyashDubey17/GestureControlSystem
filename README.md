@@ -14,7 +14,7 @@ A real-time gesture-based system to control system volume and brightness using C
 
 * Python
 * OpenCV
-* MediaPipe
+* MediaPipe  
 
 ## ⚙️ How It Works
 
